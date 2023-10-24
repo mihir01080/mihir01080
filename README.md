@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihir01080 (Mihir Patel)
+- 👋 Hello, I’m Mihir Patel 
 - 👀 I’m interested in data engineering, analytics and AI
 - 🌱 I’m currently learning data engineering and analytical principles 
 - 💞️ I’m looking to collaborate on data engineering and ETL projects
